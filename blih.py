@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.3
+#!/usr/bin/env python3
 
 #-
 # Copyright 2013-2014 Emmanuel Vadot <elbarto@bocal.org>
